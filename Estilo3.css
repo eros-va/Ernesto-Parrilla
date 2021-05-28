@@ -1,0 +1,126 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  text-decoration: none;
+  background-color: rgb(20, 20, 20);
+}
+h1 {
+  padding: 40px;
+  font-family: "Mate SC", serif;
+  font-size: 80px;
+  color: rgb(228, 142, 62);
+  text-decoration: none;
+}
+h2 {
+  padding: 40px;
+  font-family: "Mate SC", serif;
+  font-size: 50px;
+  color: rgb(233, 39, 39);
+  text-align: center;
+}
+p {
+  color: rgb(241, 241, 241);
+  font-family: "Roboto Mono", monospace;
+  font-size: 18px;
+  text-decoration: none;
+  margin: 0;
+  padding-left: 10px;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: papayawhip;
+  padding: 40px;
+  align-items: center;
+}
+#centro {
+  font-family: "Mate SC", serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+.carta {
+  border: 5px solid rgb(240, 66, 66);
+  padding: 10px;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  box-shadow: rgb(240, 66, 66);
+}
+.img {
+  height: 100%;
+  width: 500px;
+}
+.avatarc {
+  display: flex;
+  justify-content: center;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+hr {
+  border: none;
+  height: 5px;
+  color: rgb(255, 255, 255);
+  background-color: #fff;
+}
+br {
+  height: 20px;
+}
+#sprite {
+  text-align: center;
+  color: white;
+  margin: 20px;
+}
+.logos {
+  border-radius: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+}
+
+#logos2 {
+  width: 100%px;
+  justify-content: space-evenly;
+  margin: auto;
+  padding-bottom: 5px;
+  margin: auto;
+}
+.mosaico {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  align-content: space-between;
+  margin: auto;
+  max-width: 300px;
+  height: auto;
+}
+#mosa {
+  width: 300px;
+  height: auto;
+}
+.contenido {
+  display: inline-block;
+  text-align: space-around;
+  padding-bottom: 20px;
+  padding-block-start: 50px;
+  margin-left: 75px;
+  width: 300px;
+}
+#cont {
+  padding-right: 20px;
+  margin: 10px;
+  text-align: center;
+  align-content: space-around;
+}
+.cont {
+  padding-right: 20px;
+  margin: 10px;
+  text-align: center;
+}
